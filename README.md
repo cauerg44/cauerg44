@@ -2,12 +2,12 @@
 
 ## Skills
 <div align="left" >
-  <img src="https://skillicons.dev/icons?i=java,spring,postgresql,mongodb,docker,git"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,postgresql,mongodb,mysql,git"/>
 </div>
 
 ## Studying
 <div align="left" >
-  <img src="https://skillicons.dev/icons?i=javascript,html,css,react,cs"/>
+  <img src="https://skillicons.dev/icons?i=javascript,html,css,react,cs,docker"/>
 </div>
 
 ## Tools
