@@ -2,8 +2,19 @@
 
 ## Skills
 <div align="left" >
-  <img src="https://skillicons.dev/icons?i=java,spring,postgresql"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,postgresql,mongodb,docker,git"/>
 </div>
+
+## Studying
+<div align="left" >
+  <img src="https://skillicons.dev/icons?i=javascript,html,css,react,cs"/>
+</div>
+
+## Tools
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode" alt="Spring Tools Suite">
+</div>
+
 
 ## Contact
 <div>
