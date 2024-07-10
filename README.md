@@ -1,2 +1,7 @@
+![Cauê's GitHub stats](https://github-readme-stats.vercel.app/api?username=cauerg44&show_icons=true&theme=dark)
+
 ## Skills
-![Spring Boot](https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg) ![Java](https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg) 
+<div align="left" >
+  <img src="https://skillicons.dev/icons?i=java,spring,postgresql"/>
+</div>
+          
