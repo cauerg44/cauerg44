@@ -1,3 +1,5 @@
+# Prazer, me chamo Cauê!
+
 ![Cauê's GitHub stats](https://github-readme-stats.vercel.app/api?username=cauerg44&show_icons=true&theme=dark)
 
 ## Skills
