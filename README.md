@@ -14,7 +14,7 @@
 
 ## Tools
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode" alt="Spring Tools Suite">
+  <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,postman" alt="Badges">
 </div>
 
 
